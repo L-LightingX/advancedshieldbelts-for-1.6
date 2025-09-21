@@ -16,7 +16,7 @@
       <Flammability>0.4</Flammability>
       <EnergyShieldRechargeRate>0.22</EnergyShieldRechargeRate>
       <EnergyShieldEnergyMax>0.85</EnergyShieldEnergyMax>
-			<WorkToMake>15000</WorkToMake>
+			<WorkToMake>20000</WorkToMake>
     </statBases>
 		<costList>
 			<ComponentIndustrial>3</ComponentIndustrial>
@@ -97,7 +97,7 @@
       <Flammability>0.4</Flammability>
       <EnergyShieldRechargeRate>0.08</EnergyShieldRechargeRate>
       <EnergyShieldEnergyMax>1.7</EnergyShieldEnergyMax>
-			<WorkToMake>15000</WorkToMake>
+			<WorkToMake>20000</WorkToMake>
     </statBases>
 		<costList>
 			<ComponentIndustrial>4</ComponentIndustrial>
@@ -175,7 +175,7 @@
     <tickerType>Normal</tickerType>
     <statBases>
       <Mass>3</Mass>
-      <WorkToMake>15000</WorkToMake>
+      <WorkToMake>28000</WorkToMake>
       <Flammability>0.4</Flammability>
       <EnergyShieldRechargeRate>0.117</EnergyShieldRechargeRate>
       <EnergyShieldEnergyMax>0.99</EnergyShieldEnergyMax>
