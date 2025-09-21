@@ -35,7 +35,7 @@
 				<li>TableMachining</li>
 			</recipeUsers>
 			<skillRequirements>
-				<Crafting>6</Crafting>
+				<Crafting>8</Crafting>
 			</skillRequirements>
 		</recipeMaker>
     <thingCategories>
@@ -116,7 +116,7 @@
 				<li>TableMachining</li>
 			</recipeUsers>
 			<skillRequirements>
-				<Crafting>6</Crafting>
+				<Crafting>8</Crafting>
 			</skillRequirements>
 		</recipeMaker>
     <thingCategories>
@@ -197,7 +197,7 @@
 				<li>TableMachining</li>
 			</recipeUsers>
 			<skillRequirements>
-				<Crafting>6</Crafting>
+				<Crafting>12</Crafting>
 			</skillRequirements>
 		</recipeMaker>
     <thingCategories>
