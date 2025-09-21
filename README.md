@@ -5,9 +5,16 @@
 
 See the [Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=1417354001) for more details.
 
+I updated the mod to 1.6 and did few changes
+the mod no longer uses assemblies because you can enable ranged field fire by adding "<li Class="CompProperties_Shield"><blocksRangedWeapons>false</blocksRangedWeapons></li>" in <comps> 
+
+belts no longer count for nudity to match the vanilla belts 
+
+belts no longer degrade to match vanilla belts
 ## For modders:
 I recommend using [D9 Framework](https://github.com/dninemfive/d9framework) to guarantee mod compatibility and regular support. More info [here](https://github.com/dninemfive/d9framework/wiki/Miscellaneous#rangedshieldbelt).
 
 If you really want to use this DLL in your own mod (i.e. if you're allergic to external dependencies), follow these guidelines:
 - Include the LICENSE file next to the .DLL in the Assemblies folder
+
 - Give me credit, with a link to this page and the above Steam page, in your post.
